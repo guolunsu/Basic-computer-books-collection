@@ -2,7 +2,7 @@
 
 大神刷题笔记
 ===
-Leetcode 1300道算法题解 蓝奏云直接下载(推荐)<br>
+Leetcode 1300道算法题解 (推荐) [蓝奏云直接下载](https://wws.lanzoui.com/iDjtxpbhgrg "悬停显示")<br>
 labuladong 的算法小抄 蓝奏云直接下载(推荐)<br>
 阿里巴巴Java面试问题大全 蓝奏云直接下载(推荐) 百度云下载链接 密码:8xzm<br>
 程序员面试宝典 蓝奏云直接下载(推荐) 百度云下载链接 密码:ko62<br>
