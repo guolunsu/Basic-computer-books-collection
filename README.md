@@ -40,4 +40,5 @@ IT 名企算法与数据结构题目最优解 蓝奏云直接下载(推荐) 百�
 现代操作系统 蓝奏云直接下载(推荐) 百度云下载链接 密码:huk2<br>
 
  [CAN基础知识](CAN基础知识介绍.md)
+ [CAN基础值哦i会从删除](https://github.com/guolunsu/Basic-computer-books-collection/blob/main/CAN%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E4%BB%8B%E7%BB%8D.md)
 
